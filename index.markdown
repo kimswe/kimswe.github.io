@@ -2,8 +2,7 @@
 title:  "Test"
 ---
 
-{% capture my-include %}{% include test.md %}{% endcapture %}
-{{ my-include | markdownify }}
+
 
 ## Nono
 
