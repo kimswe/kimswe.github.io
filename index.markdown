@@ -7,4 +7,4 @@ title:  "Test"
 ## Nono
 
 
-{% include test.md %}
+{% include test.include %}
