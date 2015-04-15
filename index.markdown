@@ -1,10 +1,4 @@
 ---
-title:  "Test"
+title:  "Index"
 ---
-
-
-
 ## Nono
-
-
-{% include test.md %}

@@ -1,10 +1,8 @@
 # kimswe.github.io
-site
-stolen  |
-        v
+
 # Awesome-awesome-awesome
 
-> A curated list of curated lists of awesome lists.
+> A curated list of curated lists of awesome lists that i grabbed..
 
 ## awesome-awesomes
 
