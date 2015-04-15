@@ -1,8 +1,8 @@
-# kimswe.github.io
+# Awesome-awesome-awesome to free stuff!
 
-# Awesome-awesome-awesome
+> A curated list of curated lists of awesome lists that i grabbed.. and tried to find all the free stuff!
 
-> A curated list of curated lists of awesome lists that i grabbed..
+ - [Free for devs!](https://github.com/ripienaar/free-for-dev)
 
 ## awesome-awesomes
 
