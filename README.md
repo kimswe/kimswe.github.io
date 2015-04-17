@@ -7,7 +7,6 @@
   * http://azure.microsoft.com/ - MS Azure gives $200 worth of free usage for a trial
   * http://hpcloud.com/ - $300 credit over 90 days.
   * https://appharbor.com/ - A .Net PaaS that provides 1 free worker
-  * https://shellycloud.com/ - Platform for hosting Ruby and Ruby on Rails apps. Shelly Cloud gives €20 free credit
   * https://www.heroku.com/ - Host your apps in the cloud, free for single process apps
   * https://www.firebase.com/ - Build realtime apps, free plan has 50 Max Connections, 5 GB Data Transfer, 100 MB Data Storage. 1 GB Hosting Storage and 100 GB Hosting Transfer.
   * https://bluemix.net/ - IBM PaaS with a monthly free allowance
