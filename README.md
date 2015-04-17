@@ -1,5 +1,7 @@
 # Awesome-awesome-awesome to free stuff!
 
+ * https://github.com/quozd/awesome-dotnet ! :D
+
 ## PaaS
 
   * https://cloud.google.com/appengine/ - Google App Engine gives 28 instance hours free, 1Gb NoSQL Database and more.
